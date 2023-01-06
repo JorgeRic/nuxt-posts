@@ -14,7 +14,7 @@
     "@nuxtjs/axios": "^5.3.6",
     "axios": "^0.19.2",
     "firebase": "^7.14.3",
-    "nuxt": "^2.0.0"
+    "nuxt": "^2.15.8"
   },
   "devDependencies": {
     "eslint-config-prettier": "^6.10.0",
